@@ -1,0 +1,5 @@
+.featured {
+  background-image: url("../../assets/home/featured.jpg");
+  background-color: rgba(0, 0, 0, 0.5);
+  background-blend-mode: multiply;
+}
